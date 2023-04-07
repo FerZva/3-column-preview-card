@@ -168,4 +168,13 @@ main {
   color: hsla(0, 0%, 100%, 0.75);
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 /*# sourceMappingURL=style.css.map */
